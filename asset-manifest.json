@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lidlislista/static/css/main.e6c13ad2.css",
+    "main.js": "/lidlislista/static/js/main.de056c2a.js",
+    "static/js/453.caaf283c.chunk.js": "/lidlislista/static/js/453.caaf283c.chunk.js",
+    "index.html": "/lidlislista/index.html",
+    "main.e6c13ad2.css.map": "/lidlislista/static/css/main.e6c13ad2.css.map",
+    "main.de056c2a.js.map": "/lidlislista/static/js/main.de056c2a.js.map",
+    "453.caaf283c.chunk.js.map": "/lidlislista/static/js/453.caaf283c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.de056c2a.js"
+  ]
+}
